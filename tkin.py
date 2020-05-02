@@ -70,8 +70,7 @@ class student:
       
                         
 
-                        
-
+                  
 root=Tk()
 ob=student(root)
 ob1=student(root)
