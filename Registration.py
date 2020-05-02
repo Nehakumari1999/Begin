@@ -74,36 +74,10 @@ entry_4.place(x=420,y=360)
 
                                                                                                                                                                               
 
-
-
-
-
 Button(root, text='Student Details',width=13,bg='brown',fg='white',command=rootSec).place(x=700,y=2)
 
 
 Button(root, text='Submit',width=20,bg='brown',fg='white',command=database).place(x=280,y=410)
 
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
