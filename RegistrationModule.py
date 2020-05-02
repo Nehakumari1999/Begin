@@ -45,8 +45,4 @@ def rootSec():
             win2.mainloop
                         
                         
-                        
-
-            
-                        
-
+                      
